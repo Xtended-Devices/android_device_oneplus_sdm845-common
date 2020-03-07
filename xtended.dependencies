@@ -1,10 +1,8 @@
 [
   {
-    "repository": "android_kernel_oneplus_sdm845",
-    "target_path": "kernel/oneplus/sdm845"
-  },
-  {
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings"
+    "remote": "github",
+    "repository": "AOSiP-Devices/kernel_oneplus_sdm845",
+    "target_path": "kernel/oneplus/sdm845",
+    "branch": "ten"
   }
 ]
